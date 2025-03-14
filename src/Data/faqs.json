@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "question": "What is StreamVibe?",
+        "answer": "StreamVibe is a digital streaming platform that offers a vast library of movies, TV shows, and exclusive content with a seamless viewing experience."
+    },
+    {
+        "id": 2,
+        "question": "How much does StreamVibe cost?",
+        "answer": "StreamVibe offers various subscription plans starting from [enter price here] per month, with different options based on video quality and the number of supported devices."
+    },
+    {
+        "id": 3,
+        "question": "What content is available on StreamVibe?",
+        "answer": "StreamVibe provides a diverse range of content, including movies, TV series, documentaries, kids' shows, and exclusive originals, regularly updated with new releases."
+    },
+    {
+        "id": 4,
+        "question": "How can I watch StreamVibe?",
+        "answer": "You can watch StreamVibe through the official website or the app, available on smartphones, tablets, smart TVs, and desktop computers."
+    },
+    {
+        "id": 5,
+        "question": "How do I sign up for StreamVibe?",
+        "answer": "Signing up for StreamVibe is simple! Visit our official website, choose a subscription plan, and create an account using your email."
+    },
+    {
+        "id": 6,
+        "question": "What is the StreamVibe free trial?",
+        "answer": "StreamVibe offers a free trial for [enter number of days here] days, allowing you to explore the full content library without charges. After the trial ends, you will need to choose a subscription plan."
+    },
+    {
+        "id": 7,
+        "question": "How do I contact StreamVibe customer support?",
+        "answer": "You can reach our customer support via email at [enter email here], live chat on our website, or through our official social media channels."
+    },
+    {
+        "id": 8,
+        "question": "What are the StreamVibe payment methods?",
+        "answer": "StreamVibe supports multiple payment methods, including credit and debit cards, PayPal, and digital wallets, depending on your country."
+    }
+]
